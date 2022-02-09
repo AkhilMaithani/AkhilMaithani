@@ -1,4 +1,4 @@
-### Hi there ![wave-hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+### Hi there ![wave-hand](Images/Hand.gif)
 
 <!--
 **AkhilMaithani/AkhilMaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
