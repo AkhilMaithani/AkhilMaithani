@@ -1,6 +1,8 @@
-# Hi there! ![wave-hand](Images/Hand.gif),
+# Hello Folks! ![wave-hand](Images/Hand.gif),
 
-## I am Akhil Maithani
+```C++
+cout<<"I am Akhil Maithani"<<endl;
+```
 
 <!--
 **AkhilMaithani/AkhilMaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
