@@ -75,5 +75,3 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
   <a href="mailto:akhilmaithani1303@gmail.com" target="_blank"><img src="Images/gmail.png" alt="Gmail" width="30" height="30"> </a>
 </p>
 
-## 📀 Coding Platforms
-
