@@ -1,4 +1,4 @@
-# Hi there! [wave-hand](Images/Hand.gif),
+# Hi there! [wave-hand](AkhilMaithani/Images/Hand.gif),
 
 ## I am Akhil Maithani
 
