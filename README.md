@@ -36,15 +36,20 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 ### Programming Languages:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30">
+  &nbsp;
   <img src="Images/sql.png" alt="sql" width="30" height="30">
 </p>
 
 ### FrontEnd Development:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30">
 </p>
 
@@ -58,8 +63,28 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 ### Others:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"> 
+  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30">
+  &nbsp;
   <img src="Images/visual studio.png" alt="visual studio" width="30" height="30">
+</p>
+
+<hr>
+
+## 😎 Some Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&locale=en&layout=compact" alt="akhilmaithani">
+</p>
+
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akhilmaithani&show_icons=true&locale=en" alt="akhilmaithani">
+</p>
+
+<br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilMaithani&" alt="akhilmaithani">
 </p>
 
 <hr>
@@ -74,4 +99,3 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
   &nbsp;
   <a href="mailto:akhilmaithani1303@gmail.com" target="_blank"><img src="Images/gmail.png" alt="Gmail" width="30" height="30"> </a>
 </p>
-
