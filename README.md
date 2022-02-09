@@ -61,5 +61,14 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30">
   <img src="Images/visual studio.png" alt="visual studio" width="30" height="30">
 </p>
+
 <hr>
 
+## Social Connecting PlatForms
+<p>
+  <a href="https://www.linkedin.com/in/akhilmaithani/" target="_blank"><img src="Images/linkedin.png" alt="Linkedin" width="30" height="30"> </a>
+  <a href="https://twitter.com/maithani_akhil/" target="_blank"><img src="Images/twitter.png" alt="Twitter" width="30" height="30"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100008563418867/" target="_blank"><img src="Images/facebook.png" alt="Facebook" width="30" height="30"> </a>
+  <a href="https://www.instagram.com/abyte._.space._.needed/" target="_blank"><img src="Images/instagram.png" alt="Instagram" width="30" height="30"> </a>
+  <a href="mailto:akhilmaithani1303@gmail.com" target="_blank"><img src="Images/gmail.png" alt="Gmail" width="30" height="30"> </a>
+</p>
