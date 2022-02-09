@@ -1,20 +1,28 @@
-# Hello Folks! ![wave-hand](Images/Hand.gif),
+# Hello Everyone! ![wave-hand](Images/Hand.gif),
 
-```C++
-cout<<"I am Akhil Maithani"<<endl;
+```python
+fName = "Akhil"
+lName = "Maithani"
+age = 20
+
+print(f"I am {fName} {lName} and I am {age} years old.")
 ```
 
-<!--
-**AkhilMaithani/AkhilMaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<br>
 
-Here are some ideas to get you started:
+<p style="text-align:center;">
+I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technology ( B.Tech ) from Graphic Era Hill University ( GEHU ) with a major in Computer Science and Engineering ( CSE ).
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<br>
+
+## Academic Section
+
+> 🎓 Current Year: 3rd 
+>> 🐱‍👤Current Semester: 6th
+
+> ⚡ Highest SGPA: 9.60
+>> 💡 TOTAL CGPA: 9.09
+
