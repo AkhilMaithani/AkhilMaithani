@@ -5,7 +5,7 @@ fName = "Akhil"
 lName = "Maithani"
 age = 20
 
-print("Welcome to my gitHub repository, Hope you enjoy it!")
+print("Welcome to my gitHub repository, Hope you like it!")
 print(f"I am {fName} {lName} and I am {age} years old.")
 ```
 
@@ -71,7 +71,7 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 
 <hr>
 
-## 😎 Some Stats
+## 😎 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&locale=en&layout=compact" alt="akhilmaithani">
@@ -89,7 +89,7 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 
 <hr>
 
-## 📷 Social Connecting PlatForms
+## 📷 Social Platforms
 <p align="center">
   <a href="https://www.linkedin.com/in/akhilmaithani/" target="_blank"><img src="Images/linkedin.png" alt="Linkedin" width="30" height="30"> </a>
   &nbsp;
