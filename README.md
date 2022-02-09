@@ -51,26 +51,7 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30">
+  <img src="Images/visual studio.png" alt="visual studio" width="30" height="30">
 </p>
 <hr>
 
-## 😎 Some Stats
-<br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&locale=en&layout=compact" alt="akhilmaithani">
-</p>
-
-<hr>
-<br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akhilmaithani&show_icons=true&locale=en" alt="akhilmaithani">
-</p>
-
-<hr>
-<br>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilMaithani&" alt="akhilmaithani">
-</p>
