@@ -64,11 +64,16 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 
 <hr>
 
-## Social Connecting PlatForms
-<p>
+## 📷 Social Connecting PlatForms
+<p align="center">
   <a href="https://www.linkedin.com/in/akhilmaithani/" target="_blank"><img src="Images/linkedin.png" alt="Linkedin" width="30" height="30"> </a>
+  &nbsp;
   <a href="https://twitter.com/maithani_akhil/" target="_blank"><img src="Images/twitter.png" alt="Twitter" width="30" height="30"> </a>
-  <a href="https://www.facebook.com/profile.php?id=100008563418867/" target="_blank"><img src="Images/facebook.png" alt="Facebook" width="30" height="30"> </a>
+  &nbsp;
   <a href="https://www.instagram.com/abyte._.space._.needed/" target="_blank"><img src="Images/instagram.png" alt="Instagram" width="30" height="30"> </a>
+  &nbsp;
   <a href="mailto:akhilmaithani1303@gmail.com" target="_blank"><img src="Images/gmail.png" alt="Gmail" width="30" height="30"> </a>
 </p>
+
+## 📀 Coding Platforms
+
