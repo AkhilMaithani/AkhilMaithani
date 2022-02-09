@@ -5,6 +5,7 @@ fName = "Akhil"
 lName = "Maithani"
 age = 20
 
+print("Welcome to My GitHub Repository, Hope You Enjoy!")
 print(f"I am {fName} {lName} and I am {age} years old.")
 ```
 
@@ -18,7 +19,7 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 <hr>
 <br>
 
-## Academic Section
+### Academic Section
 
 | 🎓 Current Year | 🐱‍👤Current Semester | ⚡ Highest SGPA | 💡 TOTAL CGPA |
 |:-:|:-:|:-:|:-:|
@@ -26,4 +27,7 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 
 <hr>
 <br>
+
+### Technology Stack
+
 
