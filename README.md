@@ -10,7 +10,6 @@ print(f"I am {fName} {lName} and I am {age} years old.")
 ```
 
 <hr>
-<br>
 
 <p align="center">
 I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technology ( B.Tech ) from Graphic Era Hill University ( GEHU ) with a major in Computer Science and Engineering ( CSE ).
@@ -20,13 +19,12 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 ![GitHub watchers](https://img.shields.io/github/watchers/AkhilMaithani/AkhilMaithani?style=social)
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=AkhilMaithani&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmaithani">
-
 </p>
 
 <hr>
 <br>
 
-### 📙 Academic Section
+## 📙 Academic Section
 
 | 🎓 Current Year | 🐱‍👤Current Semester | ⚡ Highest SGPA | 💡 TOTAL CGPA |
 |:-:|:-:|:-:|:-:|
@@ -35,10 +33,10 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 <hr>
 <br>
 
-### 💻 Technology Stack
+## 💻 Technology Stack
 
-#### Languages:
-&nbsp;&nbsp;
+### Languages:
+<br>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -46,3 +44,28 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+<hr>
+<br>
+
+## 😎 Some Stats
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&locale=en&layout=compact" alt="akhilmaithani">
+</p>
+
+<hr>
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/
+api?username=AkhilMaithani&show_icons=true&locale=en" alt="akhilmaithani">
+</p>
+
+<hr>
+<br>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilMaithani&" alt="akhilmaithani">
+</p>
