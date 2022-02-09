@@ -20,9 +20,10 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 
 ## Academic Section
 
-> 🎓 Current Year: 3rd 
->> 🐱‍👤Current Semester: 6th
+| 🎓 Current Year | 🐱‍👤Current Semester | ⚡ Highest SGPA | 💡 TOTAL CGPA |
+|:-:|:-:|:-:|:-:|
+| 3rd Year | 6th Semester | 9.60 | 9.09 |
 
-> ⚡ Highest SGPA: 9.60
->> 💡 TOTAL CGPA: 9.09
+<hr>
+<br>
 
