@@ -14,12 +14,19 @@ print(f"I am {fName} {lName} and I am {age} years old.")
 
 <p style="text-align:center;">
 I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technology ( B.Tech ) from Graphic Era Hill University ( GEHU ) with a major in Computer Science and Engineering ( CSE ).
+
+![GitHub followers](https://img.shields.io/github/followers/AkhilMaithani?style=social)
+&nbsp;
+![GitHub watchers](https://img.shields.io/github/watchers/AkhilMaithani/AkhilMaithani?style=social)
+&nbsp;
+<p> <img src="https://komarev.com/ghpvc/?username=AkhilMaithani&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmaithani" /></p>
+
 </p>
 
 <hr>
 <br>
 
-### Academic Section
+### 📙 Academic Section
 
 | 🎓 Current Year | 🐱‍👤Current Semester | ⚡ Highest SGPA | 💡 TOTAL CGPA |
 |:-:|:-:|:-:|:-:|
@@ -28,6 +35,9 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 <hr>
 <br>
 
-### Technology Stack
+### 💻 Technology Stack
 
+<p>
+Languages:
+</p>
 
