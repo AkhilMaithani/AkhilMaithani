@@ -1,4 +1,4 @@
-<img src="Images/new image.jpg" alt="Banner Image">
+<img align="right" src="Images/programmer.gif" alt="Programmer Gif" width="1400" height="500">
 
 <h1 align="center"> Hello Everyone! <img src="Images/Hand.gif" alt="wave-hand">, </h1>
 
