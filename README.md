@@ -34,6 +34,9 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 ## 💻 Technology Stack
 
 ### Programming Languages:
+
+<img align="right" src="Images/programmer.gif" alt="Programmer Gif" width="500" height="300">
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30">
   &nbsp;
@@ -45,7 +48,6 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
   &nbsp;
   <img src="Images/sql.png" alt="sql" width="30" height="30">
 </p>
-<img align="right" src="Images/programmer.gif" alt="akhilmaithani" width="500" height="300">
 
 ### FrontEnd Development:
 <p>
