@@ -1,4 +1,6 @@
-# Hello Everyone! ![wave-hand](Images/Hand.gif),
+<img src="Images/new image.jpg" alt="Banner Image">
+
+<h1 align="center"> Hello Everyone! <img src="Images/Hand.gif" alt="wave-hand">, </h1>
 
 ```python
 fName = "Akhil"
@@ -77,17 +79,17 @@ I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technolo
 ## 😎 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&locale=en&layout=compact" alt="akhilmaithani">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&locale=en&layout=compact" alt="akhilmaithani Language Used">
 </p>
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akhilmaithani&show_icons=true&locale=en" alt="akhilmaithani">
+<img src="https://github-readme-stats.vercel.app/api?username=akhilmaithani&show_icons=true&locale=en" alt="akhilmaithani Stats">
 </p>
 
 <br>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilMaithani&" alt="akhilmaithani">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilMaithani&" alt="akhilmaithani streak stats">
 </p>
 
 <hr>
