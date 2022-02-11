@@ -14,13 +14,14 @@ print(f"I am {fName} {lName} and I am {age} years old.")
 <hr>
 
 <p align="center">
-I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technology ( B.Tech ) from Graphic Era Hill University ( GEHU ) with a major in Computer Science and Engineering ( CSE ).
-
-![GitHub followers](https://img.shields.io/github/followers/AkhilMaithani?style=social)
-&nbsp;
-![GitHub watchers](https://img.shields.io/github/watchers/AkhilMaithani/AkhilMaithani?style=social)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AkhilMaithani&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmaithani">
+  I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technology ( B.Tech ) from Graphic Era Hill University ( GEHU ) with a major in Computer Science and Engineering ( CSE ).
+  <br>
+  <br>
+  <img src="https://img.shields.io/github/followers/AkhilMaithani?style=social" alt="GitHub followers">
+  &nbsp;
+  <img src="https://img.shields.io/github/watchers/AkhilMaithani/AkhilMaithani?style=social" alt="GitHub watchers">
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AkhilMaithani&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmaithani">
 </p>
 
 <hr>
