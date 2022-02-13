@@ -39,38 +39,38 @@ print(f"I am {fName} {lName} and I am {age} years old.")
 ### Programming Languages:
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-C-lightgrey" alt="c">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-C%2B%2B-green" alt="cplusplus">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-Java-orange" alt="java">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-Python-blue" alt="python">
   &nbsp;
-  <img src="Images/sql.png" alt="sql" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-SQL-red" alt="sql">
 </p>
 
 ### FrontEnd Development:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-HTML-red" alt="html5">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-CSS-blue" alt="css3">
 </p>
 
 ### Database:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50">
+  <img src="https://img.shields.io/badge/%20-MYSQL-brightgreen" alt="mysql">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50">
+  <img src="https://img.shields.io/badge/%20-Oracle-yellowgreen" alt="oracle">
 </p>
 
 ### Others:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"> 
+  <img src="https://img.shields.io/badge/%20-LINUX-lightgrey" alt="linux"> 
   &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-GIT%2FGITHUB-orange" alt="git">
   &nbsp;
-  <img src="Images/visual studio.png" alt="visual studio" width="30" height="30">
+  <img src="https://img.shields.io/badge/%20-Visual%20Studio-blue" alt="visual studio">
 </p>
 
 <hr>
