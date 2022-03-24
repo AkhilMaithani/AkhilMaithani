@@ -30,7 +30,7 @@ print(f"I am {fName} {lName} and I am {age} years old.")
 
 | 🎓 Current Year | 🐱‍👤Current Semester | ⚡ Highest SGPA | 💡 TOTAL CGPA |
 |:-:|:-:|:-:|:-:|
-| 3rd Year | 6th Semester | 9.60 | 9.09 |
+| 3rd Year | 6th Semester | 9.60 | 8.83 |
 
 <hr>
 
