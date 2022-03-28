@@ -2,13 +2,13 @@
 
 <h1 align="center"> Hello Everyone! <img src="Images/Hand.gif" alt="wave-hand">, </h1>
 
-```python
-fName = "Akhil"
-lName = "Maithani"
-age = 21
+```javascript
+let fName = "Akhil";
+let lName = "Maithani";
+let age = 21;
 
-print("Welcome to my gitHub repository, Hope you like it!")
-print(f"I am {fName} {lName} and I am {age} years old.")
+console.log("Welcome to my gitHub repository, Hope you like it!");
+console.log(`I am ${fName} ${lName} and I am ${age} years old.`);
 ```
 
 <hr>
