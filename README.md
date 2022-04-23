@@ -1,4 +1,4 @@
-<img align="right" src="Images/programmer.gif" alt="Programmer Gif" width="1400" height="500">
+<img align="right" src="Images/programmer.gif" alt="Programmer Gif" width="1000" height="400">
 
 <h1 align="center"> Hello Everyone! <img src="Images/Hand.gif" alt="wave-hand">, </h1>
 
