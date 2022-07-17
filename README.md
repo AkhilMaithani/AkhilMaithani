@@ -87,7 +87,7 @@ akhilMaithaniIntroduction(basicInformation, academicInformation);
             level: "Moderate"
             includedInProject: "yes"
         }
-    }
+    };
 
     const databases = {
         MySQL: {
@@ -103,7 +103,7 @@ akhilMaithaniIntroduction(basicInformation, academicInformation);
             level: "beginner",
             includedInProject: "yes"
         }
-    }
+    };
 
     const additional = {
         HTML: {
@@ -122,7 +122,7 @@ akhilMaithaniIntroduction(basicInformation, academicInformation);
             level: "beginner",
             includedInProject: "yes"
         }
-    }
+    };
  ```
 
 ## 😎 GitHub Stats
