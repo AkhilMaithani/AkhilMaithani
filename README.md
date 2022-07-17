@@ -1,39 +1,54 @@
-<section style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center; align-content: center; margin: 0px; padding: 0px;">
-<h1> Hello Folks, I'm Akhil Maithani</h1>
-<img src="intro.gif" alt="intro gif" width="100px">
-</section>
+<h1> Hello Folks, I'm Akhil Maithani</h1></p>
+
+<a href="https://www.linkedin.com/in/akhilmaithani/"><img src="https://img.shields.io/badge/%20-Linkedin-blue" alt="Linkedin"></a>&nbsp;
+<a href="https://leetcode.com/abytespaceneeded/"><img src="https://img.shields.io/badge/-Leetcode-yellow" alt="Leetcode profile link"></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/abytespaceneeded/practice/"><img src="https://img.shields.io/badge/%20-GFG-green" alt="GFG profile link"></a>&nbsp;
+<a href="https://www.hackerrank.com/abytespaceneeded"><img src="https://img.shields.io/badge/%20-Hackerrank-orange" alt="Hackerrank profile link"></a>&nbsp;
+<a href="https://github.com/AkhilMaithani"><img src="https://img.shields.io/github/followers/AkhilMaithani?style=social" alt="GitHub followers"></a>&nbsp;
+<a href="https://github.com/AkhilMaithani"><img src="https://img.shields.io/github/watchers/AkhilMaithani/AkhilMaithani?style=social" alt="GitHub watchers"></a>&nbsp;
+<a href="https://github.com/AkhilMaithani"><img src="https://komarev.com/ghpvc/?username=AkhilMaithani&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmaithani"></a>&nbsp;
 
 ```javascript
-let fName = "Akhil";
-let lName = "Maithani";
-let age = 21;
+const basicInformation = {
+    firstName: "Akhil",
+    lastName: "Maithani",
+    age: 21,
+    gender: "Male"
+};
 
-console.log("Welcome to my gitHub repository, Hope you like it!");
-console.log(`I am ${fName} ${lName} and I am ${age} years old.`);
+const academicInformation = {
+    
+    btech: {
+        university: "Graphic Era Hill University",
+        year: "2019-2023",
+        cgpa: 8.83,
+        semester: 7
+    },
+
+    12: {
+        school: "Ralli International School",
+        board: "CBSE",
+        year: "2018",
+        percentage: 84.4
+    },
+
+    10: {
+        school: "Ralli International School",
+        board: "CBSE",
+        year: "2016",
+        cgpa: 8.2
+    }
+};
+
+const akhilMaithaniIntroduction = (basicInformation, academicInformation) => {
+    console.log("Welcome to my gitHub repository, Hope you like it!, Explore below for more information about me!");
+
+    console.log(basicInformation);
+    console.log(academicInformation);
+}
+
+akhilMaithaniIntroduction(basicInformation, academicInformation);
 ```
-
-<hr>
-
-<p align="center">
-  I am <strong>Akhil Maithani</strong> currently pursuing my Bachelors in Technology ( B.Tech ) from Graphic Era Hill University ( GEHU ) with a major in Computer Science and Engineering ( CSE ).
-  <br>
-  <br>
-  <img src="https://img.shields.io/github/followers/AkhilMaithani?style=social" alt="GitHub followers">
-  &nbsp;
-  <img src="https://img.shields.io/github/watchers/AkhilMaithani/AkhilMaithani?style=social" alt="GitHub watchers">
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AkhilMaithani&label=Profile%20views&color=0e75b6&style=flat" alt="akhilmaithani">
-</p>
-
-<hr>
-
-## 📙 Academic Section
-
-| 🎓 Current Year | 🐱‍👤Current Semester | ⚡ Highest SGPA | 💡 TOTAL CGPA |
-|:-:|:-:|:-:|:-:|
-| 3rd Year | 6th Semester | 9.60 | 8.83 |
-
-<hr>
 
 ## 💻 Technology Stack
 
