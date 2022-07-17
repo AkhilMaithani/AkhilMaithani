@@ -135,3 +135,5 @@ akhilMaithaniIntroduction(basicInformation, academicInformation);
 
 <h1></h1>
 
+<p align="center"><img src="Images/thanks.gif" alt="gif" width="100px"></p>
+<p align="center"><strong><em>You all caught up!</em></strong></p>
