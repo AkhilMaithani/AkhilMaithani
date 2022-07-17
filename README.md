@@ -127,10 +127,10 @@ akhilMaithaniIntroduction(basicInformation, academicInformation);
 
 ## 😎 GitHub Stats
 
-<section style="width:100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkhilMaithani&show_icons=true&theme=dracula" alt="Akhil Maithani's GitHub stats" width="350px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&theme=dracula" alt="Akhil Maithani's Most Language used card"     width="300px" height="150px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilMaithani&show_icons=true&theme=dracula" alt="Akhil Maithani's streak stats" width="350px">
+<section style="width: 100%;">
+   <img src="https://github-readme-stats.vercel.app/api?username=AkhilMaithani&show_icons=true&theme=dracula" alt="Akhil Maithani's GitHub stats" width="350px">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilMaithani&show_icons=true&theme=dracula" alt="Akhil Maithani's Most Language used card" width="300px" height="150px">
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilMaithani&show_icons=true&theme=dracula" alt="Akhil Maithani's streak stats" width="350px"></p>
 </section>
 
 <h1></h1>
