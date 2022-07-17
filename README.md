@@ -1,6 +1,7 @@
-<img align="right" src="Images/programmer.gif" alt="Programmer Gif" width="1000" height="400">
-
-<h1 align="center"> Hello Everyone! <img src="Images/Hand.gif" alt="wave-hand">, </h1>
+<section style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center; align-content: center; margin: 0px; padding: 0px;">
+<h1> Hello Folks, I'm Akhil Maithani</h1>
+<img src="intro.gif" alt="intro gif" width="100px">
+</section>
 
 ```javascript
 let fName = "Akhil";
