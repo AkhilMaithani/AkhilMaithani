@@ -1,4 +1,4 @@
-<h1> Hello Folks, I'm Akhil Maithani</h1></p>
+<h1> Hello Everyone, I'm Akhil Maithani</h1></p>
 
 <a href="https://www.linkedin.com/in/akhilmaithani/"><img src="https://img.shields.io/badge/%20-Linkedin-blue" alt="Linkedin"></a>&nbsp;
 <a href="recruitakhilmaithani2023@gmail.com"><img src="https://img.shields.io/badge/%20-GMAIL-red" alt="Gmail ID"></a>&nbsp;
