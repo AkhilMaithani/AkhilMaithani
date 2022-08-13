@@ -54,75 +54,13 @@ akhilMaithaniIntroduction(basicInformation, academicInformation);
 ## 💻 Technology Stack
 
 ```javascript
-    const programmingLanguages = {
-        
-        C: {
-            level: "Strong"
-        },
-
-        "C++": {
-            level: "Strong",
-            numberOfProjectsDone: 1
-        },
-
-        Java: {
-            level: "Strong",
-            numberOfProjectsDone: 1
-        },
-
-        Python: {
-            level: "Moderate",
-            numberOfProjectsDone: 2
-        },
-
-        JavaScript: {
-            level: "Moderate"
-        },
-
-        PHP: {
-            level: "beginner"
-        },
-
-        SQL: {
-            level: "Moderate"
-            includedInProject: "yes"
-        }
-    };
-
-    const databases = {
-        MySQL: {
-            level: "Moderate",
-            includedInProject: "yes"
-        },
-
-        Oracle: {
-            level: "Moderate"
-        },
-
-        SQLite: {
-            level: "beginner",
-            includedInProject: "yes"
-        }
-    };
-
-    const additional = {
-        HTML: {
-            level: "Strong"
-        },
-
-        CSS: {
-            level: "Strong"
-        },
-
-        "Git/GitHub": {
-            level: "Moderate"
-        },
-
-        "AndroidStudion + XML": {
-            level: "beginner",
-            includedInProject: "yes"
-        }
-    };
+    const programmingLanguages = ["C", "C++", "Java", "JavaScript", "Python", "SQL"];    
+    const webBasedTechnology = ["HTML", "CSS"];
+    const databases = ["MySQL", "Oracle", "SQLite"];
+    const otherSkills = ["Data Structures and Algorithms", "Git/Github", "Markdown", "Visual Studio", "MS PowerPoint"];
+    const androidTechnology =  ["Android Studio", "XML"];
+    const os = ["Linux", "Windows"];
+    
  ```
 
 ## 😎 GitHub Stats
