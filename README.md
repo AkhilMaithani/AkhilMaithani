@@ -22,7 +22,7 @@ const academicInformation = {
     btech: {
         university: "Graphic Era Hill University",
         year: "2019-2023",
-        cgpa: 8.83,
+        cgpa: 8.78,
         semester: 7
     },
 
