@@ -1,6 +1,7 @@
 <h1> Hello Everyone, I'm Akhil Maithani</h1></p>
 
 <a href="https://www.linkedin.com/in/akhilmaithani/"><img src="https://img.shields.io/badge/%20-Linkedin-blue" alt="Linkedin"></a>&nbsp;
+<a href="https://www.instagram.com/abyte._.space._.needed/"><img src="https://img.shields.io/badge/%20-Instagram-orange" alt="Instagram"></a>&nbsp;
 <a href="recruitakhilmaithani2023@gmail.com"><img src="https://img.shields.io/badge/%20-GMAIL-red" alt="Gmail ID"></a>&nbsp;
 <a href="https://leetcode.com/abytespaceneeded/"><img src="https://img.shields.io/badge/-Leetcode-yellow" alt="Leetcode profile link"></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/abytespaceneeded/practice/"><img src="https://img.shields.io/badge/%20-GFG-green" alt="GFG profile link"></a>&nbsp;
