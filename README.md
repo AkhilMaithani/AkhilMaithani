@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hii, <span style="background-color: blueviolet; padding: 1px 20px 1px 10px; border-radius: 3rem; font-family: cursive;">Akhil Maithani</span> this side 👋🏻
+    Hii, <code>Akhil Maithani</code> this side 👋🏻
     <br />
    <div align="center">
          <a href="https://github.com/AkhilMaithani"><img src="https://img.shields.io/github/followers/AkhilMaithani?style=social" alt="GitHub followers"></a>
