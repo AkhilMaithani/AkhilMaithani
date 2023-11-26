@@ -11,6 +11,11 @@
 <h2>
 👨🏻‍💻 About
 </h2>
+🎓 Graduated from Graphic Era Hill University, Dehradun <br />
+📜 B.tech in Computer Science and Engineering <br />
+🗓️ 2019 - 2023 batch <br />
+🏢 Ex-SDE Intern @ Curious Technologies <br />
+🌱 I’m currently learning Full Stack Development <br />
 
 <h2>
 💻 Skills
