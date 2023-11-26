@@ -70,4 +70,4 @@
 
 <hr />
 
-<p align="center">Thanks for visiting, nice meeting you. 💝💖</p>
+<h6 align="center">Thanks for visiting, nice meeting you. 💝💖</h6>
