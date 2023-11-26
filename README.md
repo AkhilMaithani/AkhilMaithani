@@ -68,6 +68,4 @@
 <a href="mailto:recruitakhilmaithani2023@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-DC0000?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>&nbsp;
 </div>
 
-<hr />
-
 <h6 align="center">Thanks for visiting, nice meeting you. 💝💖</h6>
