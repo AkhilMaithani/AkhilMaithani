@@ -9,7 +9,7 @@
 </h1>
 
 <h2>
-👨🏻‍💻 About
+💫 About
 </h2>
 🎓 Graduated from Graphic Era Hill University, Dehradun <br />
 📜 B.tech in Computer Science and Engineering <br />
@@ -18,7 +18,7 @@
 🌱 I’m currently learning Full Stack Development <br />
 
 <h2>
-💻 Skills
+👨🏻‍💻 Skills
 </h2>
 <div>
 <img alt="C" src="https://img.shields.io/badge/-C-6C4AB6?style=flat-square&amp;logo=C&amp;logoColor=white">&nbsp;
@@ -44,7 +44,7 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-548CFF?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white">&nbsp;
 </div>
 
-<h2>🗒️ Projects</h2>
+<h2>📑 Projects</h2>
 
 | S. No. |            Project Name             |          Tags          |                                                                       Link's                                                                       |
 | :----: | :---------------------------------: | :--------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -57,7 +57,7 @@
 |   7    |      Random Password Generator      |        Frontend        | [Repository Link](https://github.com/AkhilMaithani/Random-Password-Generator.git), [Demo Link](https://random-password-generator-indol.vercel.app) |
 |   8    |      Task Manager Application       |        Frontend        |  [Repository Link](https://github.com/AkhilMaithani/Task-Manager-Application.git), [Demo Link](https://task-manager-application-rosy.vercel.app)   |
 
-<h2>☑️ Coding Profiles </h2>
+<h2>🪢 Coding Profiles </h2>
 
 <div>
 <a href="https://leetcode.com/abytespaceneeded/"><img alt="Leetcode" src="https://img.shields.io/badge/-Leetcode-674747?style=flat-square&amp;logo=Leetcode&amp;logoColor=white"></a>&nbsp;
@@ -65,7 +65,7 @@
 <a href="https://www.hackerrank.com/abytespaceneeded"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-533483?style=flat-square&amp;logo=Hackerrank&amp;logoColor=white"></a>&nbsp;
 </div>
 
-<h2>🔗 Connect with me</h2>
+<h2>📱 Connect with me</h2>
 
 <div>
 <a href="https://www.linkedin.com/in/akhilmaithani/"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white"></a>&nbsp;
